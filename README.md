@@ -7,4 +7,4 @@ right click - "X"
 
 double click clears the cell
 
-press take button to save
+press "take" button to save
